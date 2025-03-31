@@ -8,6 +8,9 @@ Firstly, confirm the filename "Setup Instruction.txt" and "requirements.txt". Th
 
 HCV analysis
 i) Commands for the evaluation within the range 
+
 After performed the steps i)-iii) in the Texture analysis (./program_tai1_Texture),the command automatically compute the HSV values and statics values (python3 program.py; for Heu, program2h_17000_value.py or program2h_statics.py; for Satuation, program2s_17000_value.py or program2s_statics.py; for Value, program2v_17000_value.py or program2v_statics.py)
+
 ii) Commands for the characteristic profile 
+
 The Python command (library: scikit_posthocs etc.) automatically compute the difference of the profiling (python3 program.py)
